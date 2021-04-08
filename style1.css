@@ -1,0 +1,50 @@
+
+.titulomain {
+	text-align: center;
+	background-color: #272323;
+}
+
+.red {
+	background-color: #f45353;
+	border: 2px solid #272323;
+}
+.white {
+	border-right: 2px solid #272323;
+	border-left: 2px solid #272323;
+}
+
+.classedesc {
+	padding-right: 40px;
+	text-align: justify;
+}
+
+div.red a:link,
+div.red a:visited,
+div.white a:link,
+div.white a:visited {
+	color: black;
+	text-decoration: none;
+}
+div.red a:hover,
+div.white a:hover {
+	color: red;
+}
+
+ul, 
+li {
+	margin-left: 138px;
+}
+
+.listcol {
+	columns: 2;
+}
+.listcol li{
+	margin-left: -23px;
+}
+
+img {
+	height: 300px;
+	width: 300px;
+}
+
+

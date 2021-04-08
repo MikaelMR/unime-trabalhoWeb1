@@ -47,4 +47,17 @@ img {
 	width: 300px;
 }
 
+@font-face {
+	src: url('../unime-trabalhoWeb1/BlackCloverFont.ttf');
+	font-family: 'BlackClover';
+
+}
+
+h1, h2 {
+	font-family: 'BlackClover';
+}
+
+p, ul, h3 {
+	font-family: Arial, Helvetica, sans-serif;
+}
 

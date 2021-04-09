@@ -2,15 +2,22 @@
 .titulomain {
 	text-align: center;
 	background-color: #272323;
+	color: white;
+	border: 4px groove #f45353;
+}
+.titulomain p {
+	border-top: 4px groove #f45353;
+	border-bottom: 4px groove #f45353;
+	padding: 20px;
 }
 
 .red {
 	background-color: #f45353;
-	border: 2px solid #272323;
+	border: 4px groove #272323;
 }
 .white {
-	border-right: 2px solid #272323;
-	border-left: 2px solid #272323;
+	border-right: 4px groove #272323;
+	border-left: 4px groove #272323;
 }
 
 .classedesc {
